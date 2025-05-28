@@ -177,8 +177,7 @@ public class FluxoGeral {
 
     public static void incrementoVida(Sandubinha sandubinha, Inimigo inimigo) {
         System.out.println("\nSandubinha venceu o " + inimigo.getName());
-        sandubinha.setVida(sandubinha.getVida());
-        sandubinha.setVidaInicial(sandubinha.getVida() + 2);
+        sandubinha.setVida(sandubinha.getVida() + 2);
     }
     public static void numeroSecretoVida(Sandubinha sandubinha, Inimigo inimigo) {
         System.out.println("\nNúmero secreto de Sandubinha: " + sandubinha.getNumeroSecreto());
