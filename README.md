@@ -21,7 +21,8 @@
   - `Estilingue`  
   - `Capa`  
   - `Colar`  
-  - A poderosa **EspadaZG** 🗡️  
+  - `EspadaZG`   
 
 - 🎯 **Objetivo final:**  
   - Derrotar o **Glozium** e salvar o mundo.  
+
